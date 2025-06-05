@@ -20,6 +20,6 @@ to detect if IP addresses, domains, or file hashes are flagged as malicious.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/cyber-threat-scanner.git
+git clone https://github.com/tawfiqio/cyber-threat-scanner.git
 cd cyber-threat-scanner/backend
 npm install
